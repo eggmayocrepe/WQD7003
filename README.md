@@ -1,3 +1,5 @@
 # WQD7003
 
-# Where is our shared code? - CS 30.05.25
+# All code should be added into the WQD7003_Data_Analytics_Full_Project Python File.
+
+# Testing can be done inside each individual folder if desired, but all complete items should be added to the same full python script.
