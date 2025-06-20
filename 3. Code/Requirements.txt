@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+missingno
+plotly
+geopandas
+scikit-learn
+xgboost
+lightgbm
+imblearn
+statsmodels
+nltk
+streamlit
